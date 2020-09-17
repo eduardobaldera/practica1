@@ -31,7 +31,7 @@
                 </div>
                 <!-- Los botones para la creación del producto -->
                 <button type="submit" class="btn btn-primary">Guardar</button>
-                <a href="/tarea2/" class="btn btn-primary">Cancelar</a>
+                <a href="/api/listar" class="btn btn-primary">Cancelar</a>
             </form>
         </div>
 </#macro>
